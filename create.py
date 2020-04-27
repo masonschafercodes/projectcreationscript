@@ -15,7 +15,7 @@ class Folder(object):
         self.password = password
             
     def create_dir(self):
-        self.path_schema = "C:/Users/mason/OneDrive/Development/'20/Personal"
+        self.path_schema = "path_for_creation_of_folder"
 
         self.fname = input("What should I name the folder: ")
 
